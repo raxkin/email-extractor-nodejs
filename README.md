@@ -1,11 +1,13 @@
 # email-extractor-nodejs
 
+Script to find all e-mails texts in a website
+
 ## Project Setup
 
 1. Install Node.js
-´´´
+```
 sudo apt-get install nodejs
-´´´
+```
 
 2. Create a symbolic link for node, as many Node.js tools use this name to execute.
 ```
